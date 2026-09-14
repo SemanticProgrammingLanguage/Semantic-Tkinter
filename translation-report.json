@@ -1,0 +1,107 @@
+[
+  {
+    "source": "__init__.py",
+    "output": "__init__.se",
+    "exit": 0,
+    "bytes": 27315208,
+    "message": null
+  },
+  {
+    "source": "__main__.py",
+    "output": "__main__.se",
+    "exit": 0,
+    "bytes": 50248,
+    "message": null
+  },
+  {
+    "source": "colorchooser.py",
+    "output": "colorchooser.se",
+    "exit": 0,
+    "bytes": 246165,
+    "message": null
+  },
+  {
+    "source": "commondialog.py",
+    "output": "commondialog.se",
+    "exit": 0,
+    "bytes": 255937,
+    "message": null
+  },
+  {
+    "source": "constants.py",
+    "output": "constants.se",
+    "exit": 0,
+    "bytes": 631307,
+    "message": null
+  },
+  {
+    "source": "dialog.py",
+    "output": "dialog.se",
+    "exit": 0,
+    "bytes": 247794,
+    "message": null
+  },
+  {
+    "source": "dnd.py",
+    "output": "dnd.se",
+    "exit": 0,
+    "bytes": 1643195,
+    "message": null
+  },
+  {
+    "source": "filedialog.py",
+    "output": "filedialog.se",
+    "exit": 0,
+    "bytes": 3101568,
+    "message": null
+  },
+  {
+    "source": "font.py",
+    "output": "font.se",
+    "exit": 0,
+    "bytes": 1816041,
+    "message": null
+  },
+  {
+    "source": "fontchooser.py",
+    "output": "fontchooser.se",
+    "exit": 0,
+    "bytes": 532383,
+    "message": null
+  },
+  {
+    "source": "messagebox.py",
+    "output": "messagebox.se",
+    "exit": 0,
+    "bytes": 592734,
+    "message": null
+  },
+  {
+    "source": "scrolledtext.py",
+    "output": "scrolledtext.se",
+    "exit": 0,
+    "bytes": 294478,
+    "message": null
+  },
+  {
+    "source": "simpledialog.py",
+    "output": "simpledialog.se",
+    "exit": 0,
+    "bytes": 3277463,
+    "message": null
+  },
+  {
+    "source": "systray.py",
+    "output": "systray.se",
+    "exit": 0,
+    "bytes": 745515,
+    "message": null
+  },
+  {
+    "source": "ttk.py",
+    "output": "ttk.se",
+    "exit": 0,
+    "bytes": 8391104,
+    "message": "source-normalized tuple/list and starred for-target bindings before Semantic export"
+  }
+]

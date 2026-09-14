@@ -1,0 +1,20 @@
+{
+  "module": "tkinter",
+  "source_directory": "../tkinter",
+  "translated_directory": ".",
+  "format": "semantic-sp-files",
+  "layout": "relative paths are preserved; Python sources are represented as .se files",
+  "translation": {
+    "python_source_files": 15,
+    "python_translated_files": 15,
+    "semantic_validation": "all generated .se files passed semantic-validate"
+  },
+  "source_normalizations": [
+    {
+      "source": "ttk.py",
+      "generated_staging_source": "../ttk.starred-binding-lowered.py",
+      "rule": "tuple/list and starred for-targets are lowered to a temporary iteration binding plus ordered index/slice assignments"
+    }
+  ],
+  "status": "COMPLETE_TRANSLATION_VALIDATED"
+}
